@@ -1,0 +1,17 @@
+{
+  "name": "jira-api",
+  "version": "1.0.0",
+  "description": "Call to pull changelog into something useful from JIRA API for reading changelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jira"
+  ],
+  "author": "gjsyme",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^1.8.0"
+  }
+}
